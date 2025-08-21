@@ -233,7 +233,3 @@ MIT — use at your own risk. The script only creates/deletes small marker files
 ## Author
 
 Designed for macOS dev workflows with **OrbStack**, **VS Code**, JS/TS monorepos (Vite/Next/Turbo), and common browser caches.
-
----
-
-If you’d like, I can add a tiny **Makefile** (`make dry-run`, `make run`, `make rebuild`) or a separate **check** script to verify state after installation.
